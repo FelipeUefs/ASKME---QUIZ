@@ -20,4 +20,6 @@ Além disso, o jogador pode usar recursos especiais durante as partidas, como:
 
 Para incentivar a competição, foi implementado um Hall da Fama dividido por categorias, onde são registrados os melhores desempenhos de cada modo de jogo. Os dados são salvos em arquivos JSON, permitindo a atualização e exibição dos rankings a cada nova partida.
 
-O projeto busca unir diversão e aprendizado, mostrando na prática como conceitos básicos de programação podem ser aplicados em um jogo interativo
+O projeto busca unir diversão e aprendizado, mostrando na prática como conceitos básicos de programação podem ser aplicados em um jogo interativo.
+
+Os Arquivos .json são onde estão armazenados as questões e Hall de cada modo de jogo.
